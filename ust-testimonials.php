@@ -2,10 +2,12 @@
 /*
 Plugin Name: Ust Testimonial
 Plugin URI: https://itdevstudio.com/plugins
-Description: Display Testimonial Using Widgets
+Description: The UST Testimonial Widget Plugin allows you to display testimonials on your WordPress website using a customizable widget.
 Version: 0.1.0
 Author: Gaurav Khandelwal
 Author URI: https://itdevstudio.com/
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: ust-testimonials
 Domain Path: /languages
 */
